@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Delivr Truck</string>
+    <string name="tagline">Le restaurant mobile - Version Livreur</string>
+    <string name="gps">GPS</string>
+    <string name="geolocation">Reseau</string>
+    <string name="serveClient">Servir</string>
+    <string name="close">Fermer</string>
+    <string name="name">Nom:</string>
+    <string name="phone">Telephone:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="battery">Batterie:</string>
+    <string name="order">Commande:</string>
+    <string name="getDirection">Itineraire</string>
+
+</resources>

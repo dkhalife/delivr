@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Delivr</string>
+    <string name="orderHere">Faire livrer ici</string>
+    <string name="tagline">Le restaurant mobile</string>
+    <string name="aboutText">Delivr est un restaurant mobile Canadian. La compagnie a ete etablie par des jeunes entrepreneurs suite a une idee miraculeuse de livraison hyper-rapide d\'aliments. Le principe est simple, les clients ont acces a une application mobile permettant d\'effectuer des commandes et de voir ou se trouve le livreur en tout temps. Merci d\'avoir choisi d\'utiliser notre application et bon appetit!</string>
+    <string name="orderText">Veuillez choisir les items que vous voulez commander.</string>
+    <string name="gps">GPS</string>
+    <string name="geolocation">Reseau</string>
+    <string name="availableItems">Items disponibles:</string>
+    <string name="orderedItems">Commande:</string>
+    <string name="orderTotal">Total: 0$</string>
+    <string name="finishOrder">Commander</string>
+    <string name="cancelOrder">Annuler la commande</string>
+    <string name="myOrder">Ma commande</string>
+
+</resources>
